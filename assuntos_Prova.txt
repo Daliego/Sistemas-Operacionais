@@ -1,0 +1,20 @@
+- Trocas de contexto de software
+- Outra coisa que eu não sei o que é {
+	- processos ficam no sistema operacional
+	- Quando em processo ficam dentro da tcb, ficam vindo da tcb para a cpu
+	- 
+}
+
+contexto de hadware: armazena os registradores
+
+contexto de software:
+
+espaço de endereçamento
+
+
+
+UC? ULA?
+
+Execução sequencial: Sincrono
+
+Threads? Código assíncrono?
